@@ -1,6 +1,6 @@
 ### Nikolai Kochkin
 
-I am a Senior QA Lead at Veeam Software company. I live in Prague. Unfortunately, most of my code cannot be published, so I am not a frequent guest here.
+I am a Senior QA Manager at Veeam Software company. I live in Prague. Unfortunately, most of my code cannot be published, so I am not a frequent guest here.
 
 - 🔭 I’m working on Veeam Backup for [Nutanix AHV/AWS/Azure/GCP] at Veeam Software. 
 - 🌱 I’m currently learning how to build automated documentation systems
