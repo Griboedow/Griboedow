@@ -2,7 +2,7 @@
 
 I am a QA Manager at Veeam Software company. I live in Prague. Unfortunately, most of my code cannot be published, so I am not a frequent guest here.
 
-- 🔭 I’m working on Veeam Backup for [Nutanix AHV/AWS/Azure/GCP] at Veeam Software. 
+- 🔭 I’m working on multiple backup solutions at Veeam Software. 
 - 🌱 I’m currently learning how to build automated documentation systems
 - 🤔 My dream is to build an opensource internal search system since there is no universal one at the market.
 
